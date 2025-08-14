@@ -11,8 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **M.Tech Integrated CSE** @ VIT Amaravati (CGPA 9.25; Rank 9/250)  
-- 🛰️ **Intern** @ North Eastern Space Applications Centre (Department of Space, GoI) — work on **census-independent population estimation** using satellite imagery, **YOLOv8**, DSM/DTM analytics & spatial AI  
+- 🎓 **M.Tech Integrated CSE** @ VIT Amaravati    
 - 🧠 I love building end-to-end ML systems: **data → models → deployment**, with a focus on **LLMs, RAG, computer vision, and geospatial analytics**
 - 📍 India (remote-friendly)
 
@@ -47,59 +46,12 @@
 
 ---
 
-## 🧩 Featured Projects
-> Click to expand each project.
-
-<details>
-<summary><b>Population-Estimation</b> — Interpretable AI for census-independent population estimation (CV + DSM/DTM)</summary>
-
-- High-res satellite imagery + **YOLOv8** building detection  
-- Elevation-aware floor estimation and demographic mapping  
-- Automated pipeline with **GDAL/Rasterio** and spatial analytics  
-- **Repo:** https://github.com/Yuvrraaj/Population-Estimation
-</details>
-
-<details>
-<summary><b>DocuMind AI</b> — Universal Document Intelligence System</summary>
-
-- Handles **20+ file types** with extraction, search, and instant Q&A  
-- Sub-second responses; Python + NLP + retrieval pipelines  
-- **Repo:** https://github.com/Yuvrraaj/DocuMind-AI---Universal-Document-Intelligence-System
-</details>
-
-<details>
-<summary><b>Blood Group Detection Device</b> — Non-invasive, Raspberry Pi</summary>
-
-- Laser-based signal processing with classical ML  
-- Achieved ~**95% accuracy** in testing  
-</details>
-
----
-
-## 🏅 Certifications
-- Oracle Cloud Infrastructure **2025 Certified Generative AI Professional** — [Verify](https://example.com/genai-cert-verification)  
-- Oracle Cloud Infrastructure **2025 Certified Data Science Professional** — [Verify](https://example.com/datasci-cert-verification)
-
----
-
-## 📈 By the Numbers (auto)
-<p align="left">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=Yuvrraaj&show_icons=true&hide_title=true&count_private=true" />
-  <img height="145" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvrraaj" />
-</p>
-
----
 
 ## 🤝 Open to Collaborate
 - Geospatial CV, LLM/RAG systems, document AI, and real-time ML backends  
 - Mentorship or research collaborations welcome — reach me at **itsyuvrajjha1718@gmail.com**
 
 ---
-
-## 📝 Resume & Links
-- **Resume (PDF):** _add your link here_  
-- **Portfolio:** https://yuvraj-jha-portfolio.vercel.app  
-- **LinkedIn:** https://linkedin.com/in/yuvrajjha17
 
 ---
 
