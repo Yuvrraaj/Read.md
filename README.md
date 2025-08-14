@@ -49,9 +49,7 @@
 
 ## 🤝 Open to Collaborate
 - Geospatial CV, LLM/RAG systems, document AI, and real-time ML backends  
-- Mentorship or research collaborations welcome — reach me at **itsyuvrajjha1718@gmail.com**
-
----
+- Reach me at **itsyuvrajjha1718@gmail.com**
 
 ---
 
