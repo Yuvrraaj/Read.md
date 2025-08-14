@@ -4,7 +4,6 @@
   AI/ML Engineer • Geospatial & Computer Vision • LLMs, RAG & Agentic Systems
   <br/>
   <a href="mailto:itsyuvrajjha1718@gmail.com">Email</a> •
-  <a href="https://github.com/Yuvrraaj">GitHub</a> •
   <a href="https://linkedin.com/in/yuvrajjha17">LinkedIn</a> •
   <a href="https://yuvraj-jha-portfolio.vercel.app">Portfolio</a>
 </p>
